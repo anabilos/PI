@@ -1,0 +1,74 @@
+@model IEnumerable<StavkaViewModel>
+<div class="sec" >
+        <table class="table table-striped" id="table-stavke">
+            <thead>
+                <tr>
+                    @{
+                        string[] nazivi = {"Ponuđivač", "Cijena Ponude", "Dobiven Natječaj" };
+                        for (int i = 0; i < nazivi.Length; i++)
+                        {
+                            <th >
+                                @nazivi[i]
+                            </th>
+                        }
+                    }
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var stavka in Model)
+                {
+
+
+                    <tr>
+                <td >
+                    <input type="hidden" name="Stavke.Index" value="@stavka.PonudjivacId"/>
+                    <input type="hidden" name="Stavke[@stavka.PonudjivacId].Id" value="@stavka.Id" />
+                    <input type="hidden" name="Stavke[@stavka.PonudjivacId].PonudjivacId" value="@stavka.PonudjivacId" />
+                    <input type="hidden" name="Stavke[@stavka.PonudjivacId].Ponudjivac" value="@stavka.Ponudjivac" />
+                    @stavka.Ponudjivac                                 
+                </td>
+                <td >
+                    <input name="Stavke[@stavka.PonudjivacId].CijenaPonude" class="form-control" value="@stavka.CijenaPonude" />
+                </td>
+                <td>
+                        
+                        <select asp-for="@stavka.DobivenNatjecaj" name="Stavke[@stavka.PonudjivacId].DobivenNatjecaj">
+                        <option  value=true>Da</option>
+                        <option  value=false>Ne</option>
+                    </select>
+                    
+                </td>   
+                         
+            
+                <td>
+                    <button class="btn btn-sm btn-dark deleterow" title="Izbaci"><i class="fa fa-minus"></i></button>
+                </td>               
+                 </tr>
+
+                }
+               <tr>
+            <td >
+                
+                <input id="ponudjivac-id" type="hidden" data-autocomplete-placeholder="ponudjivacnaziv" readonly="readonly" />
+                <input id="ponudjivac-naziv" type="text" data-autocomplete="ponudjivac" data-autocomplete-placeholder-name="ponudjivacnaziv" />                
+            </td>
+            <td class="text-center col-sm-1">
+                <input id="natjecaj-ponuda" type="text" /> 
+            </td>
+              <td> 
+                        <select  id="natjecaj-dobiven" >
+                        <option disabled selected value=""></option>
+                        <option  value=true>Da</option>
+                        <option  value=false>Ne</option>
+                    </select>
+            
+                </td> 
+             <td class="text-left" colspan="3">
+                <button id="natjecaj-dodaj" class="btn btn-sm btn-secondary" title="Dodaj"><i class="fas fa-plus"></i></button>
+            </td>
+        </tr>
+            </tbody>
+        </table>
+        </div>
+

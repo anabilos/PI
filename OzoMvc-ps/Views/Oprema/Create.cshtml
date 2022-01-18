@@ -1,0 +1,57 @@
+﻿@model Oprema
+
+@{
+    ViewBag.Title = "Nova oprema";
+}
+    <div id="main">
+        <h2>Unos nove opreme</h2>
+
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="All"></div>
+            <div class="form-group">
+                <label asp-for="Naziv"></label>
+                <div><span asp-validation-for="Naziv" class="text-danger" /></div>
+                <input asp-for="Naziv" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="KupovnaVrijednost"></label>
+                <div><span asp-validation-for="KupovnaVrijednost" class="text-danger" /></div>
+                <input asp-for="KupovnaVrijednost" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="KnjigovodstvenaVrijednost"></label>
+                <div><span asp-validation-for="KnjigovodstvenaVrijednost" class="text-danger" /></div>
+                <input asp-for="KnjigovodstvenaVrijednost" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="VrijemeAmortizacije"></label>
+                <div><span asp-validation-for="VrijemeAmortizacije" class="text-danger" /></div>
+                <input asp-for="VrijemeAmortizacije" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="VrstaId"></label>
+                <div><span asp-validation-for="VrstaId" class="text-danger"></span></div>
+                <select class="form-control" asp-for="VrstaId" asp-items="ViewBag.VrstaOpreme">
+                    <option selected value="" disabled>Odaberite vrstu</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReferentniId"></label>
+                <div><span asp-validation-for="ReferentniId" class="text-danger"></span></div>
+                <select class="form-control" asp-for="ReferentniId" asp-items="ViewBag.ReferentniTip">
+                    <option disabled selected value="">Odaberite vrstu</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="SkladisteId"></label>
+                <div><span asp-validation-for="SkladisteId" class="text-danger"></span></div>
+                <select class="form-control" asp-for="SkladisteId" asp-items="ViewBag.Skladiste">
+                    <option disabled selected value="">Odaberite vrstu</option>
+                </select>
+            </div>
+            <div class="text-center">
+                <button class="btn btn-primary" type="submit">Dodaj</button>
+                <a asp-action="Index" class="btn btn-secondary">Odustani</a>
+            </div>
+        </form>
+        </div>

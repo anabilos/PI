@@ -1,0 +1,28 @@
+﻿@model Skladište
+
+@{
+    ViewBag.Title = "Novo skladiste";
+}
+    <div id="main">
+        <h2>Unos novog referentnog tipa</h2>
+
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="All"></div>
+            <div class="form-group">
+                <label asp-for="Naziv"></label>
+                <div><span asp-validation-for="Naziv" class="text-danger" /></div>
+                <input asp-for="Naziv" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="MjestoId"></label>
+                <div><span asp-validation-for="MjestoId" class="text-danger"></span></div>
+                <select class="form-control" asp-for="MjestoId" asp-items="ViewBag.Mjesto">
+                    <option disabled selected value="">Odaberite mjesto</option>
+                </select>
+            </div>
+            <div class="text-center">
+                <button class="btn btn-primary" type="submit">Dodaj</button>
+                <a asp-action="Index" class="btn btn-secondary">Odustani</a>
+            </div>
+        </form>
+    </div>

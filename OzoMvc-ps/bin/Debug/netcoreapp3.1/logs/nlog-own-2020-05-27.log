@@ -1,0 +1,43 @@
+2020-05-27 19:21:13.2557|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:21:54.0001|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:22:59.9131|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:24:39.4792|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:29:10.1860|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:35:33.3600|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:35:59.7037|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Cannot insert explicit value for identity column in table 'posao' when IDENTITY_INSERT is set to OFF.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-05-27 19:36:16.5382|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Cannot insert explicit value for identity column in table 'posao' when IDENTITY_INSERT is set to OFF.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-05-27 19:37:22.5022|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:37:36.5712|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 3 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-05-27 19:38:37.9457|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:38:43.0193|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:38:43.9583|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:38:47.2031|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:38:48.6615|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:42:43.0683|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:44:04.4628|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:44:29.0968|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:44:31.3672|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:02.4128|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:47:07.7700|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:08.9352|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:09.6280|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:10.2575|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:10.6658|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:11.1273|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:12.7138|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:13.5235|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:47:13.9365|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:51:26.6583|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:55:07.7623|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:55:14.9988|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:55:47.4245|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:55:51.1694|0|OzoMvc.Controllers.PosaoController|WARN|  Ne postoji posao s oznakom: 0  |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 19:57:06.5536|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 19:57:12.5567|0|OzoMvc.Controllers.PosaoController|INFO|  Posao 3 uspješno obrisan |url: https://localhost/Posao/Delete?page=1,sort=1,ascending=True|action: Delete
+2020-05-27 20:01:00.1700|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-05-27 20:01:24.1387|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 4 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-05-27 20:02:21.0973|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 

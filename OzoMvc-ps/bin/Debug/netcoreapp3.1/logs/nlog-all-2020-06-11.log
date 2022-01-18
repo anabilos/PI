@@ -1,0 +1,38 @@
+2020-06-11 00:09:59.0361|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:09:59.3852|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:09:59.3852|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:09:59.3852|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-11 00:10:01.6742|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The properties 'PosaoOprema.Id', 'PosaoOprema.PosaoId' are configured to use 'Identity' value generator and are mapped to the same table 'posao_oprema'. Only one column per table can be configured as 'Identity'. Call 'ValueGeneratedNever' for properties that should not use 'Identity'.
+2020-06-11 00:11:11.9249|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:11:12.2602|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:11:12.2602|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:11:12.2602|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-11 00:11:14.2177|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The properties 'PosaoOprema.Id', 'PosaoOprema.PosaoId' are configured to use 'Identity' value generator and are mapped to the same table 'posao_oprema'. Only one column per table can be configured as 'Identity'. Call 'ValueGeneratedNever' for properties that should not use 'Identity'.
+2020-06-11 00:12:18.0347|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:12:18.3703|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:12:18.3703|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:12:18.3703|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-11 00:15:05.9698|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:15:06.5371|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:15:06.5416|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:15:06.5416|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-11 00:17:33.0007|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:17:33.5728|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:17:33.5728|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:17:33.5887|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-11 00:18:39.2415|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:18:39.5793|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:18:39.5793|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:18:39.5884|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-11 00:19:01.3369|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:19:01.6753|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:19:01.6753|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:19:01.6847|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-11 00:20:11.4180|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:20:11.7461|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:20:11.7461|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:20:11.7461|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-11 00:29:57.1025|0|OzoMvc.Program|DEBUG|init main 
+2020-06-11 00:29:57.6672|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-11 00:29:57.6672|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-11 00:29:57.6821|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 

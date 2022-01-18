@@ -1,0 +1,31 @@
+@model Certifikati
+
+@{
+    ViewData["Title"] = "Ažuriranje certifikata";
+}
+<div id="main">
+<form asp-route-page="@ViewBag.Page"
+      asp-route-sort="@ViewBag.Sort"
+      asp-route-ascending="@ViewBag.Ascending"
+      asp-action="Edit"
+      method="post">
+    <div asp-validation-summary="All"></div>
+    <div class="form-group">
+        <label asp-for="Naziv"></label>
+        <div><span asp-validation-for="Naziv" class="text-danger"></span></div>
+        <input asp-for="Naziv" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Opis"></label>
+        <div><span asp-validation-for="Opis" class="text-danger"></span></div>
+        <textarea asp-for="Opis" class="form-control"></textarea>
+    </div>
+    <div class="text-center">
+        <button class="btn btn-primary" type="submit">Spremi</button>
+        <a asp-action="Index"
+           asp-route-page="@ViewBag.Page"
+           asp-route-sort="@ViewBag.Sort"
+           asp-route-ascending="@ViewBag.Ascending"
+           class="btn btn-secondary">Odustani</a>
+    </div>
+</form></div>

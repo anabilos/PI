@@ -1,0 +1,77 @@
+﻿@model PosaoViewModel
+
+
+@{
+    ViewBag.Title = "Novi posao";
+}
+    <div id="main">
+        <h2>Unos novog posla</h2>
+
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="All"></div>
+
+            <div class="form-group">
+                <div><span asp-validation-for="UslugaId" class="text-danger" /></div>
+                <label asp-for="UslugaId">Usluga</label>
+                <select class="form-control" asp-for="UslugaId" asp-items="ViewBag.Usluge">
+                    <option disabled selected value="">Odaberite uslugu</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <div><span asp-validation-for="MjestoId" class="text-danger" /></div>
+                <label asp-for="MjestoId">Mjesto</label>
+                <select class="form-control" asp-for="MjestoId" asp-items="ViewBag.Mjesta">
+                    <option disabled selected value="">Odaberite mjesto</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <div><span asp-validation-for="Cijena" class="text-danger" /></div>
+                <label asp-for="Cijena"></label>
+                <div><span asp-validation-for="Cijena" class="text-danger" /></div>
+                <input maxlength="5" asp-for="Cijena" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Vrijeme"></label>
+                <div><span asp-validation-for="Vrijeme" class="text-danger" /></div>
+                <input type="datetime-local" asp-for="Vrijeme" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Troskovi"></label>
+                <div><span asp-validation-for="Troskovi" class="text-danger" /></div>
+                <input asp-for="Troskovi" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="OpremaId">Oprema</label>
+                <select class="form-control" asp-for="OpremaId" asp-items="ViewBag.Oprema" multiple>
+                </select>
+
+
+                <label asp-for="SatnicaOpreme">Satnica opreme</label>
+                <input type="time" class="form-control" asp-for="SatnicaOpreme" />
+
+
+
+
+            </div>
+            <div class="form-group">
+                <label asp-for="ZaposlenikId">Zaposlenici</label>
+                <select class="form-control" asp-for="ZaposlenikId" asp-items="ViewBag.Zaposlenici" multiple>
+                </select>
+
+                <label asp-for="SatnicaZaposlenika">Satnica zaposlenika</label>
+
+                <input type="time" class="form-control" asp-for="SatnicaZaposlenika" />
+
+
+            </div>
+
+
+            <div class="text-center">
+                <button class="btn btn-primary" type="submit">Dodaj</button>
+                <a asp-action="Index" class="btn btn-secondary">Odustani</a>
+            </div>
+
+
+
+        </form>
+        </div>

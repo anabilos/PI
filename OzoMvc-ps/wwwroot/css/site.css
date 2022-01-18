@@ -1,0 +1,93 @@
+#tablenormativi{
+    width: 70%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+table th a{
+    text-decoration: none;
+    color: black;
+}
+table th a:hover{
+    text-decoration: none;
+    color: grey;
+}
+h3{
+    text-align: center;
+    padding: 50px;
+}
+#main{
+    width: 30%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.sec{
+    margin-top: 30px;
+    width: 70%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+ul li a{
+    text-decoration: none;
+    color:black
+}
+
+ul li a:hover{
+    text-decoration: none;
+    color:grey;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #a94442;
+}
+.pagebox {
+    width: 45px;
+}
+.black{
+    text-decoration: none;
+    color: black;
+}
+.black:hover{
+    color: grey;
+}
+
+.pagebox::selection {
+        background-color: grey;
+    }
+
+.validation-summary-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border-color: red;
+}
+.move{
+    margin-left: 160px;
+    width: 80%;
+}
+.dodaj{
+    background-color: grey;
+    color:white;
+    float: left;
+}
+
+.MjestoIGrad{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.stranice{
+    float:right;
+    background-color: grey;
+    color:white;
+}
+
+div.input {
+    margin: 0;
+    padding: 0;
+    }

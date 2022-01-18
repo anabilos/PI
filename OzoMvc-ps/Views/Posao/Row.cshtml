@@ -1,0 +1,75 @@
+﻿@model PosaoViewModel
+
+    <tr>
+        <td class="text-left">@Model.Id</td>
+        <td class="text-left">@Model.UslugaNaziv</td>
+        <td class="text-left">@Model.MjestoNaziv</td>
+        <td class="text-left">@Model.Cijena </td>
+        <td class="text-left">@Model.Troskovi </td>
+        <td class="text-left">@Model.Vrijeme</td>
+       
+          <td class="text-left" >
+            
+
+                  @foreach (var x in Model.ZaposlenikPosao)
+                  {
+                      foreach (var y in Model.Zaposlenik)
+                      {
+                          if (x.ZaposlenikId == y.Id)
+                          {
+                
+              <p>  @y.Prezime  @y.Ime  </p>
+
+                          }
+
+                      }
+
+                      
+                  }
+                      
+
+          </td>
+          <td class="text-left">
+              @foreach (var x in Model.PosaoOprema)
+              {
+                  foreach (var y in Model.Oprema)
+                  {
+                      if (x.OpremaId == y.InventarniBroj)
+                      {
+                          <p> @y.Naziv</p>
+                      }
+
+
+
+                  }
+
+
+              }
+
+
+          </td>
+       
+       
+       
+      
+
+
+
+
+        <td>
+            <a asp-action="Edit"
+               asp-route-page="@ViewBag.PagingInfo.CurrentPage"
+               asp-route-sort="@(((PagingInfo)ViewData["PagingInfo"]).Sort)"
+               asp-route-ascending="@ViewBag.PagingInfo.Ascending"
+               asp-route-id="@Model.Id"
+               class="btn btn-sm" title="Ažuriraj"><i class="fas fa-edit"></i></a>
+        </td>
+        <td>
+            <form asp-action="Delete" method="post">
+                @*Neće se koristiti direktni submit, ali treba zbog anti forgery tokena*@
+                @*Jednako tako nije potreban ni ovaj input type=hidden ako skripta ispravno radi*@
+                <input type="hidden" name="id" value="@Model.Id" />
+                <button data-idmjesta="@Model.Id" class="btn btn-sm btn-danger deleteajax" title="Obriši"><i class="fas fa-trash-alt"></i></button>
+            </form>
+        </td>
+    </tr>

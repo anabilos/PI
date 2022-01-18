@@ -1,0 +1,38 @@
+﻿@model OzoMvc.ViewModels.OpremaFilter
+<form id="filterform" asp-action="Filter" method="post">
+
+    
+
+
+    <div class="form-group row">
+        <label class="col-sm-2 col-form-label">Kupovna vrijednost</label>
+        <div class="col-sm-4">
+            <input asp-for="KupovnaVrijednostOd" class="form-control" />
+        </div>
+        <div class="col-sm-1">
+            -
+        </div>
+        <div class="col-sm-4">
+
+            <input asp-for="KupovnaVrijednostDo" class="form-control" />
+        </div>
+        <label class="col-sm-2 col-form-label">Knjigovodstvena vrijednost</label>
+        <div class="col-sm-4">
+            <input asp-for="KnjigovodstvenaVrijednostOd" class="form-control" />
+        </div>
+        <div class="col-sm-1">
+            -
+        </div>
+        <div class="col-sm-4">
+
+            <input asp-for="KnjigovodstvenaVrijednostDo" class="form-control" />
+        </div>
+        <div class="col-sm-1 text-nowrap">
+            <button type="submit" class="btn btn-sm btn-secondary" title="Postavi filter"><i class="fas fa-filter"></i></button>
+
+            <a class="btn btn-sm btn-secondary" asp-action="Index" title="Ukloni filter">
+                <i class="fas fa-trash"></i>
+            </a>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,263 @@
+2020-06-12 00:58:40.6969|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 13:31:48.3011|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 13:34:40.6942|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 13:36:01.6485|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 21 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 14:01:44.3624|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:03:37.8550|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:05:03.4492|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:07:49.1439|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:09:16.9822|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:11:29.1114|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:16:27.0604|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:19:42.1961|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:20:19.6728|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 22 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 14:28:44.0895|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:29:51.0360|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 23 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 14:36:57.9832|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:37:33.1746|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 24 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 14:41:00.2333|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:41:23.7126|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 0 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 14:48:24.5234|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:52:11.7358|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 14:52:50.2236|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 26 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:12:44.5977|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:13:14.1747|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:13:36.1705|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:14:05.0545|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:14:07.7175|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:14:09.8198|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:18:42.0385|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:19:06.6327|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 27 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:20:42.7058|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:21:12.1521|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:21:18.5931|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:23:43.3357|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:23:48.6061|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:23:50.6966|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:23:52.0972|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:24:18.7905|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:25:38.7370|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:26:02.7283|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 0 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:28:11.6215|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:28:52.0793|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:29:14.5905|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 29 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:32:51.7827|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:34:53.1664|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:35:16.4780|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 30 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:36:24.8615|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:37:16.9731|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:39:54.6883|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:40:32.0280|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 31 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:51:19.0004|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:51:56.3595|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:54:46.3943|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:54:56.9995|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 32 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:55:34.1371|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 15:58:27.3099|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 15:59:12.2919|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 33 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 16:02:09.9229|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 16:04:09.2817|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 16:04:37.0317|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 16:07:26.2544|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 16:07:57.8089|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 16:13:30.3201|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 16:54:10.8407|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 16:54:41.8488|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:05:34.7840|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:07:34.2349|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:10:22.6977|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:16:17.6078|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:19:18.1903|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:19:32.1460|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:20:18.8767|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:22:07.3485|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:22:44.3150|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:25:14.3966|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:26:03.4721|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 34 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 17:30:58.4414|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:33:29.9565|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:40:13.1687|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:50:54.7454|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:52:59.5181|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:56:43.0675|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:57:46.4022|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 17:58:56.6686|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:02:47.9652|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:06:48.3119|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:13:53.8376|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:23:43.1264|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:31:00.8699|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:32:13.8399|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:35:02.0056|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:35:34.1094|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:36:10.6768|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:36:53.4019|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:43:54.7365|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:45:22.6597|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:46:34.3342|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:48:49.0981|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 18:56:18.2511|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 20:12:16.0125|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 20:14:07.2799|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 20:23:47.1566|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 20:24:19.1522|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 20:27:49.0903|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:28:06.1815|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 35 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:30:22.5852|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:30:27.1114|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:30:35.4852|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:31:57.2647|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 20:32:31.9798|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:32:42.8804|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:32:52.0431|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:32:59.2946|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 39 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:35:27.8844|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 20:35:55.5986|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:38:15.7245|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 20:38:17.4899|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 20:38:28.0300|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:50:39.0456|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 22:51:14.3580|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:51:19.8378|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:52:01.6490|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 22:52:13.6123|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:53:43.6116|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 22:53:53.8975|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:54:03.8750|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:54:08.7816|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 40 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:58:10.1040|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 22:58:42.6661|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:58:48.6859|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:58:58.7401|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:59:02.8283|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:59:07.1233|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:59:12.3700|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 22:59:19.7399|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:00:01.8371|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:00:26.9866|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:00:31.8593|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:00:37.7886|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK_posao_oprema_posao". The conflict occurred in database "PI-05", table "dbo.posao", column 'id'.
+The statement has been terminated.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:01:54.1685|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:02:06.4259|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:02:10.8658|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 42 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:03:17.8974|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:03:47.5060|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 43 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:06:44.6718|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:07:10.4596|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:07:28.7037|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:08:15.2072|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:08:17.7745|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:08:45.9742|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:08:53.2633|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:09:40.4793|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:09:49.2872|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:10:59.7963|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:11:35.3832|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:12:07.7253|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 44 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:13:12.4974|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:13:44.1574|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:14:17.2180|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:14:49.2144|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 45 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:15:58.2411|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 46 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:16:52.1538|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:17:14.7767|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:18:48.0717|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:19:15.9377|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:19:22.4210|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:19:26.6730|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:19:30.0656|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:22:15.5518|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:22:45.9446|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:22:51.7083|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:23:40.2040|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:24:04.6159|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:24:16.5629|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:24:23.0608|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 47 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:24:46.4189|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:28:01.6072|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:28:44.4798|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:28:51.1570|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:28:55.4046|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 48 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:32:08.1234|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:32:33.5723|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 49 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:33:00.9398|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:33:12.5230|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 50 dodan. |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:36:55.4522|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:39:24.4757|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:39:56.1904|0|OzoMvc.Program|DEBUG|  init main |url: ?|action: 
+2020-06-12 23:40:19.5810|0|OzoMvc.Controllers.PosaoController|ERROR|  Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ |url: https://localhost/Posao/Create?|action: Create
+2020-06-12 23:40:24.4722|1000|OzoMvc.Controllers.PosaoController|INFO|  Posao 51 dodan. |url: https://localhost/Posao/Create?|action: Create

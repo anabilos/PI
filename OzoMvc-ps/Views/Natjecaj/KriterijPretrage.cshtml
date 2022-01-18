@@ -1,0 +1,36 @@
+@model NatjecajFilter
+<form id="filterform" asp-action="Filter" method="post">
+    <div class="form-group row" >
+        <label class="col-sm-2 col-form-label">TrajanjeOd</label>
+        <div class="col-sm-4">
+            <input asp-for="TrajanjeOd" class="form-control" />
+        </div>
+        
+            <label class="col-sm-2 col-form-label">TrajanjeDo</label>
+        
+        <div class="col-sm-4">
+            <input asp-for="TrajanjeDo" class="form-control" />
+        </div>
+    </div>
+  
+    <div class="form-group row">
+        <label class="col-sm-2 col-form-label">Iznos</label>
+        <div class="col-sm-4">
+            <input asp-for="IznosOd" class="form-control" />
+        </div>
+        <div class="col-sm-1">
+            -
+        </div>
+        <div class="col-sm-4">
+            
+            <input asp-for="IznosDo" class="form-control" />
+        </div>
+       <div class="col-sm-1 text-nowrap">
+            <button type="submit" class="btn btn-sm btn-secondary" title="Postavi filter"><i class="fas fa-filter"></i></button>           
+               
+            <a class="btn btn-sm btn-secondary" asp-action="Index" title="Ukloni filter">
+                <i class="fas fa-trash"></i>
+            </a>
+        </div>
+    </div>  
+</form>

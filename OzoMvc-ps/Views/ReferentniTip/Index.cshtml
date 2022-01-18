@@ -1,0 +1,51 @@
+﻿@model OzoMvc.ViewModels.ReferentniTipViewModel
+
+
+@{
+    ViewBag.Title = "Referentni Tip";
+}
+    <div class="container">
+        <h2>Referentni tipovi</h2> <br />
+
+        <a class="btn btn-secondary" style="margin-bottom:20px;" asp-action="Create">Unos novog referentnog tipa</a>
+    
+<pager page-info="@Model.PagingInfo" page-action="Index" page-title="Unesite željenu stranicu"
+       class="float-right">
+</pager></div>
+<div class="sec">
+    <table class="table table-sm table-striped table-hover">
+        <thead>
+            <tr>
+                <th>
+                    <a asp-route-sort="1" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == 1 ? !Model.PagingInfo.Ascending : true)">
+                        Naziv
+                    </a>
+                </th>
+                <th>
+                    <a asp-route-sort="2" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == 2 ? !Model.PagingInfo.Ascending : true)">
+                        Cijena
+                    </a>
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var reftip in Model.ReferentniTip)
+            {
+                <tr>
+                    <td class="text-center">@reftip.Naziv</td>
+                    <td class="text-left">@reftip.Cijena</td>
+                    <td class="btn-group">
+                        <form asp-action="Delete" method="post"
+                              asp-route-page="@Model.PagingInfo.CurrentPage"
+                              asp-route-sort="@Model.PagingInfo.Sort"
+                              asp-route-ascending="@Model.PagingInfo.Ascending">
+                            <input type="hidden" name="Naziv" value="@reftip.Naziv" />
+                            <button type="submit" class="btn btn-sm btn-danger delete" title="Obriši"><i class="fas fa-trash-alt"></i></button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,62 @@
+
+ @model OzoMvc.ViewModels.PonudjivaciViewModel
+@{
+    ViewData["Title"]="Popis ponuđivača";
+}
+    <h3>Pregled svih ponuđivača</h3>
+    <div class="container">
+    <a asp-action="Create"class="btn btn-secondary" style="margin-bottom:20px;margin-left:20px;">Dodaj novog ponuđivača</a>
+    <pager page-info="@Model.PagingInfo" page-action="Index" page-title="Unesite željenu stranicu"
+       class="float-right marg"></pager>
+    </div>
+<div id="main">
+<table class="table table-striped table-hover" id="tableponuđivači" >
+    <thead>
+        <tr>
+            @{
+                string [] nazivi={"Id", "Naziv"};
+                for(int i=1; i<=nazivi.Length; i++){
+                     <th>
+                        <a asp-route-sort="@i" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == i ? !Model.PagingInfo.Ascending : true)">
+                            @nazivi[i - 1]
+                        </a>
+                    </th>
+                }
+            }
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ponudjivac in Model.ponudjivaci)
+        {
+            <tr>
+                <td >@ponudjivac.Id</td>
+                <td>@ponudjivac.Naziv</td>
+                 <td class="btn-group">
+                     <a asp-action="Edit"
+                         asp-route-id="@ponudjivac.Id"
+                         asp-route-page="@Model.PagingInfo.CurrentPage"
+                         asp-route-ascending="@Model.PagingInfo.Ascending"
+                         asp-route-sort="@Model.PagingInfo.Sort"         
+                        class="btn btn-sm" title="Ažuriraj"><i class="fas fa-edit"></i>
+                     </a>
+                     <form asp-action="Delete" method="post"
+                    asp-route-page="@Model.PagingInfo.CurrentPage"
+                    asp-route-sort="@Model.PagingInfo.Sort"
+                    asp-route-ascending="@Model.PagingInfo.Ascending">
+                          <input type="hidden" name="Id" value="@ponudjivac.Id" />
+          <button type="submit" class="btn btn-sm delete" title="Obriši"><i class="fa fa-trash" ></i></button>
+                     </form>
+                      </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+@section styles{
+    
+}
+@section scripts{
+   
+
+}

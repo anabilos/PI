@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OzoMvc", "OzoMvc.csproj", "{45A2CD7E-1930-421A-86EE-8E99E907DE82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A2CD7E-1930-421A-86EE-8E99E907DE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A2CD7E-1930-421A-86EE-8E99E907DE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A2CD7E-1930-421A-86EE-8E99E907DE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A2CD7E-1930-421A-86EE-8E99E907DE82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55439A7A-0E5C-471E-9430-D65CE0C080B3}
+	EndGlobalSection
+EndGlobal

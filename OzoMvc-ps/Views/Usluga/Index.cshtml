@@ -1,0 +1,81 @@
+
+ @model OzoMvc.ViewModels.UslugeViewModel
+@{
+    ViewData["Title"]="Popis usluga";
+}
+   
+    
+<div class="container">
+    <div class="form-group row">
+        <div class="col-sm-3">
+            <h3>Pregled svih usluga</h3>
+            <br />
+            <a asp-action="Create" class="btn btn-secondary" style="margin-bottom:20px;">Dodaj novu uslugu </a>
+        </div>
+            <div class="col-sm-7">
+                <partial name="KriterijPretrage" model="Model.Filter" />
+            </div>
+    </div>
+     <pager page-info="@Model.PagingInfo" model="Model.Filter" page-action="Index" page-title="Unesite željenu stranicu"
+       class="float-right "></pager>
+</div>
+<div class="sec">
+<table class="table table-striped table-hover" id="tableusluge" >
+    <thead>
+        <tr>
+            @{
+                string [] nazivi={"Id", "Naziv usluge", "Cijena usluge", "Opis usluge", "Naziv normative"};
+                for(int i=1; i<=nazivi.Length; i++){
+                     <th>
+                        <a asp-route-sort="@i" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == i ? !Model.PagingInfo.Ascending : true)" asp-route-filter="@Model.Filter">
+                            @nazivi[i - 1]
+                        </a>
+                    </th>
+                }
+            }
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usluga in Model.Usluge)
+        {
+            <tr>
+                <td >@usluga.Id</td>
+                <td>@usluga.Naziv</td>
+                <td >@usluga.Cijena KM</td>
+                <td>@usluga.Opis</td>
+                <td >@usluga.OpisNormative</td>
+                 <td class="btn-group">
+                     <a asp-action="Edit"
+                         asp-route-id="@usluga.Id"
+                         asp-route-page="@Model.PagingInfo.CurrentPage"
+                         asp-route-ascending="@Model.PagingInfo.Ascending"
+                         asp-route-sort="@Model.PagingInfo.Sort"
+                         asp-route-filter="@Model.Filter"         
+                        class="btn btn-sm" title="Ažuriraj"><i class="fas fa-edit"></i>
+                     </a>
+                     <form asp-action="Delete" method="post"
+                    asp-route-page="@Model.PagingInfo.CurrentPage"
+                    asp-route-sort="@Model.PagingInfo.Sort"
+                    asp-route-ascending="@Model.PagingInfo.Ascending"
+                    asp-route-filter="@Model.Filter">
+                          <input type="hidden" name="Id" value="@usluga.Id" />
+          <button type="submit" class="btn btn-sm delete" title="Obriši"><i class="fa fa-trash" ></i></button>
+                     </form>
+                      </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+@section styles{
+    <link rel="stylesheet" href="~/lib/jqueryui/themes/base/jquery-ui.css" />
+}
+
+@section scripts{
+    <script src="~/lib/jqueryui/jquery-ui.js"></script>
+    <script src="~/lib/jqueryui/ui/i18n/datepicker-hr.js"></script>
+    <script src="~/js/autocomplete.js"></script>
+    
+    
+}

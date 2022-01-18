@@ -1,0 +1,78 @@
+    <ul class="navbar-nav mr-auto">
+    <li class="nav-item ">
+        <a class="nav-link" asp-action="Index" asp-controller="Home">Početna</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link
+  @(ViewBag.Controller == "Posao" ? "active": "")"
+           asp-action="Index" asp-controller="Posao">
+            Poslovi
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link
+         @(ViewBag.Controller == "Zaposlenik" ? "active": "")"
+           asp-action="Index" asp-controller="Zaposlenik">Zaposlenik</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link
+         @(ViewBag.Controller == "Usluga" ? "active": "")"
+           asp-action="Index" asp-controller="Usluga">Usluge</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link
+         @(ViewBag.Controller == "Oprema" ? "active": "")"
+           asp-action="Index" asp-controller="Oprema">Oprema</a>
+    </li>
+   
+  
+    <li>
+        <div class="nav-item dropdown ">
+            <a class="nav-link dropdown-toggle @(ViewBag.Controller == "Natjecaj" ? "active": "")"
+               asp-action="Index" asp-controller="Natjecaj" data-toggle="dropdown">Natječaji</a>
+            <div class="dropdown-menu ">
+                <a class="dropdown-item  @(ViewBag.Controller == "Natjecaj" ? "active": "")"
+                   asp-action="Index" asp-controller="Natjecaj">Popis natječaja</a>
+                <a class="dropdown-item  @(ViewBag.Controller == "Ponudjivaci" ? "active": "")"
+                   asp-action="Index" asp-controller="Ponudjivaci">Popis ponuđivača</a>
+
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="nav-item dropdown ">
+            <a class="nav-link dropdown-toggle "
+               asp-action="Index" asp-controller="Natjecaj" data-toggle="dropdown">Ostalo</a>
+            <div class="dropdown-menu ">
+                <a class="dropdown-item  @(ViewBag.Controller == "ReferentniTip" ? "active": "")"
+                   asp-action="Index" asp-controller="ReferentniTip">Referentni Tipovi</a>
+                <a class="dropdown-item  @(ViewBag.Controller == "KategorijaPoslova" ? "active": "")"
+                   asp-action="Index" asp-controller="KategorijaPoslova">Kategorija poslova</a>
+                <a class="dropdown-item  @(ViewBag.Controller == "Mjesto" ? "active": "")"
+                   asp-action="Index" asp-controller="Mjesto">Mjesta</a>
+                <a class="dropdown-item  @(ViewBag.Controller == "Grad" ? "active": "")"
+                   asp-action="Index" asp-controller="Grad">Gradovi</a>
+                <a class="dropdown-item  @(ViewBag.Controller == "Skladiste" ? "active": "")"
+                   asp-action="Index" asp-controller="Skladiste">Skladišta </a>
+                <a class="dropdown-item  @(ViewBag.Controller == "Certifikati" ? "active": "")"
+                   asp-action="Index" asp-controller="Certifikati">Certifikati </a>
+
+            </div>
+        </div>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link
+          @(ViewBag.Controller == "Report" ? "active": "")"
+           asp-action="Index" asp-controller="Report">
+            Izvještaji
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link
+  @(ViewBag.Controller == "ViewLog" ? "active": "")"
+           asp-action="Index" asp-controller="ViewLog">
+            Pregled log datoteka
+        </a>
+    </li>
+</ul>

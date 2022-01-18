@@ -1,0 +1,94 @@
+﻿@model OzoMvc.ViewModels.OpremaViewModel
+
+
+@{
+    ViewBag.Title = "Oprema";
+}
+
+
+
+
+
+<div class="container">
+    <div class="form-group row">
+        <div class="col-sm-3">
+            <h2>Popis opreme</h2>
+            <a asp-action="Create" class="btn btn-secondary" style="margin-bottom:20px;">Dodaj novu opremu </a>
+        </div>
+        <div class="col-sm-7">
+            <partial name="KriterijPretrage" model="Model.Filter" />
+        </div>
+    </div>
+
+</div>
+
+<pager page-info="@Model.PagingInfo" page-action="Index" page-title="Unesite željenu stranicu"
+       class="float-right">
+</pager>
+<div class="sec">
+    <table class="table table-sm table-striped table-hover">
+        <thead>
+            <tr>
+                <th>
+                    <a asp-route-sort="1" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == 1 ? !Model.PagingInfo.Ascending : true)">
+                        Naziv
+                    </a>
+                </th>
+                <th>
+                    <a asp-route-sort="2" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == 2 ? !Model.PagingInfo.Ascending : true)">
+                        Kupovna Vrijednost
+                    </a>
+                </th>
+                <th>
+                    <a asp-route-sort="3" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == 3 ? !Model.PagingInfo.Ascending : true)">
+                        Knjigovodstvena vrijednost
+                    </a>
+                </th>
+                <th>
+                    <a asp-route-sort="4" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == 4 ? !Model.PagingInfo.Ascending : true)">
+                        Vrijeme amortizacije
+                    </a>
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var oprema in Model.Oprema)
+            {
+                <tr>
+                    <td class="text-left">@oprema.Naziv</td>
+                    <td class="text-left">@oprema.KupovnaVrijednost</td>
+                    <td class="text-left">@oprema.KnjigovodstvenaVrijednost</td>
+                    <td class="text-left">@oprema.VrijemeAmortizacije</td>
+                    <td class="btn-group">
+                        <a asp-action="Edit"
+                           asp-route-id="@oprema.InventarniBroj"
+                           asp-route-page="@Model.PagingInfo.CurrentPage"
+                           asp-route-sort="@Model.PagingInfo.Sort"
+                           asp-route-ascending="@Model.PagingInfo.Ascending"
+                           class="btn btn-sm" title="Ažuriraj"><i class="fas fa-edit"></i></a>
+
+                        <form asp-action="Delete" method="post"
+                              asp-route-page="@Model.PagingInfo.CurrentPage"
+                              asp-route-sort="@Model.PagingInfo.Sort"
+                              asp-route-ascending="@Model.PagingInfo.Ascending">
+                            <input type="hidden" name="id" value="@oprema.InventarniBroj" />
+                            <button type="submit" class="btn btn-sm btn-danger delete" title="Obriši"><i class="fas fa-trash-alt"></i></button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@section styles{
+    <link rel="stylesheet" href="~/lib/jqueryui/themes/base/jquery-ui.css" />
+}
+
+@section scripts{
+    <script src="~/lib/jqueryui/jquery-ui.js"></script>
+    <script src="~/lib/jqueryui/ui/i18n/datepicker-hr.js"></script>
+    <script src="~/js/autocomplete.js"></script>
+
+
+}

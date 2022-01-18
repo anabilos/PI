@@ -1,0 +1,74 @@
+﻿
+
+@model OzoMvc.ViewModels.PosloviViewModel;
+
+
+@{
+    ViewBag.Title = "Poslovi";
+}
+
+
+
+<div class="container">
+
+    <div class="form-group row">
+        <div class="col-sm-3">
+            <h2>Popis poslova</h2>
+            <br />
+            <a asp-action="Create" class="btn btn-secondary" style="margin-bottom:20px;">Dodaj novi posao </a>
+        </div>
+        <div class="col-sm-7">
+            <partial name="KriterijPretrage" model="Model.Filter" />
+        </div>
+    </div>
+    <pager page-info="@Model.PagingInfo" page-action="Index" page-title="Unesite željenu stranicu"
+           class="float-right">
+    </pager>
+</div>
+
+
+<div class="sec">
+    <table class="table table-sm table-striped table-hover">
+        <thead>
+            <tr>
+                @{
+                    string[] nazivi = { "Id", "Usluga", "Mjesto", "Cijena u KM", "Troskovi u KM", "Datum", "Angažirani zaposlenici", "Korištena oprema" };
+                    for (int i = 1; i <= nazivi.Length; i++)
+                    {
+                        <th>
+                            <a asp-route-sort="@i" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == i ? !Model.PagingInfo.Ascending : true)">
+                                @nazivi[i - 1]
+                            </a>
+                        </th>
+                    }
+                }
+
+            </tr>
+        </thead>
+        <tbody>
+
+            @{
+                ViewDataDictionary vdd = new ViewDataDictionary(this.ViewData);
+                vdd.Add("PagingInfo", Model.PagingInfo);
+            }
+            @foreach (var posao in Model.Poslovi)
+            {
+                <partial name="Row" model="posao" view-data="vdd" />
+            }
+
+
+        </tbody>
+    </table>
+</div>
+
+@section styles{
+    <link rel="stylesheet" href="~/lib/jqueryui/themes/base/jquery-ui.css" />
+}
+
+@section scripts{
+    <script src="~/lib/jqueryui/jquery-ui.js"></script>
+    <script src="~/lib/jqueryui/ui/i18n/datepicker-hr.js"></script>
+    <script src="~/js/autocomplete.js"></script>
+
+
+}

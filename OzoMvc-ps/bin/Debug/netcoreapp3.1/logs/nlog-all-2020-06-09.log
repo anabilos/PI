@@ -1,0 +1,25 @@
+2020-06-09 18:16:06.6104|0|OzoMvc.Program|DEBUG|init main 
+2020-06-09 18:16:07.1989|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-09 18:16:07.1989|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-09 18:16:07.1989|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\git\OzoMvc 
+2020-06-09 18:17:20.1940|0|OzoMvc.Program|DEBUG|init main 
+2020-06-09 18:17:21.4500|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-09 18:17:21.4500|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-09 18:17:21.4697|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-09 18:19:01.8801|0|OzoMvc.Program|DEBUG|init main 
+2020-06-09 18:19:02.1827|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-09 18:19:02.1827|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-09 18:19:02.1827|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-09 18:31:35.1744|0|OzoMvc.Program|DEBUG|init main 
+2020-06-09 18:31:36.0852|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-09 18:31:36.0852|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-09 18:31:36.1139|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-09 18:57:27.0609|0|OzoMvc.Program|DEBUG|init main 
+2020-06-09 18:57:27.3865|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-09 18:57:27.3865|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-09 18:57:27.3865|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-09 18:57:29.3285|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The entity type 'PosloviView' requires a primary key to be defined. If you intended to use a keyless entity type call 'HasNoKey()'.
+2020-06-09 18:57:47.0713|0|OzoMvc.Program|DEBUG|init main 
+2020-06-09 18:57:47.3733|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-09 18:57:47.3733|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-09 18:57:47.3819|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 

@@ -1,0 +1,73 @@
+@model OzoMvc.ViewModels.GradoviViewModel
+
+@{
+    ViewBag.Title = "Gradovi";
+}
+
+<div id="main">
+     <h3>Pregled svih gradova</h3>
+    <br />
+    
+
+<pager page-info="@Model.PagingInfo" page-title="Unesite željenu stranicu"
+       page-action="Index" class="float-right">
+</pager>
+
+<a asp-action="Create" type="submit" class="btn btn-sm"><i class="fas fa-plus-square fa-5x" style="font-size: 2rem;"></i></a>
+
+<table class="table table-sm table-striped table-hover" >
+    <thead>
+        <tr>
+            @{
+                string[] nazivi = { "Id", "Naziv" };
+                for (int i = 1; i <= nazivi.Length; i++)
+                {
+                    <th class="text-center">
+                        <a asp-route-sort="@i" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == i ? !Model.PagingInfo.Ascending : true)">
+                            @nazivi[i - 1]
+                        </a>
+                    </th>
+                }
+            }
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+      @{ 
+        ViewDataDictionary vdd = new ViewDataDictionary(this.ViewData);
+        vdd.Add("PagingInfo", Model.PagingInfo);        
+      }
+     
+         @foreach(var grad in Model.Gradovi)
+        {
+            <tr>
+                <td class="text-center">@grad.Id</td>
+                <td class="text-center">@grad.Naziv</td>
+               
+               
+                
+                <td class="btn-group">
+
+                    <form asp-action="Delete" method="post"
+                        asp-route-page="@Model.PagingInfo.CurrentPage"
+                        asp-route-sort="@Model.PagingInfo.Sort"
+                        asp-route.ascending="@Model.PagingInfo.Ascending"
+                    >
+                        <input type="hidden" name="Id" value="@grad.Id"/>
+                        <button type="submit" class="btn btn-sm  delete" title="Obriši">
+                            <i class ="fas fa-trash-alt"></i>
+                        </button>
+                    </form>
+                </td>
+
+            </tr>
+        
+      }
+    </tbody>
+</table>
+</div>
+
+@section scripts{
+   
+}

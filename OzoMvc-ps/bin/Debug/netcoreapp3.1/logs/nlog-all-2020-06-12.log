@@ -1,0 +1,995 @@
+2020-06-12 00:58:40.6969|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 00:58:42.2482|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 00:58:42.2482|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 00:58:42.2575|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 13:31:48.3011|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 13:31:51.8177|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 13:31:51.8258|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 13:31:51.8457|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 13:31:57.1955|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. No suitable constructor found for entity type 'ZaposlenikPosao'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'Pid', 'zapId' in 'ZaposlenikPosao(int Pid, int zapId)'.
+2020-06-12 13:34:40.6942|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 13:34:41.3161|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 13:34:41.3213|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 13:34:41.3213|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 13:36:01.6485|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 21 dodan. 
+2020-06-12 14:01:44.3624|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:01:44.8097|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:01:44.8097|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:01:44.8201|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:03:37.8550|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:03:38.2923|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:03:38.2923|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:03:38.2923|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:05:03.4492|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:05:03.9925|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:05:03.9925|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:05:03.9925|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:07:49.1439|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:07:49.5821|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:07:49.5853|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:07:49.5853|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:09:16.9822|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:09:17.3962|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:09:17.3997|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:09:17.3997|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:11:29.1114|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:11:29.5976|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:11:29.6010|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:11:29.6010|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:11:31.9357|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. No suitable constructor found for entity type 'ZaposlenikPosao'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'zaposlenikPosao' in 'ZaposlenikPosao(ICollection<ZaposlenikPosao> zaposlenikPosao)'.
+2020-06-12 14:16:27.0604|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:16:27.5648|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:16:27.5648|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:16:27.5747|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:19:42.1961|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:19:42.6669|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:19:42.6669|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:19:42.6805|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:20:19.6728|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 22 dodan. 
+2020-06-12 14:28:44.0895|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:28:44.9642|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:28:44.9642|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:28:44.9888|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:29:51.0360|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 23 dodan. 
+2020-06-12 14:36:57.9832|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:36:58.4332|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:36:58.4332|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:36:58.4332|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:37:33.1746|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 24 dodan. 
+2020-06-12 14:41:00.2333|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:41:00.6828|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:41:00.6828|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:41:00.6946|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:41:23.7126|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 0 dodan. 
+2020-06-12 14:48:24.5234|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:48:25.1385|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:48:25.1385|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:48:25.1523|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:52:11.7358|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 14:52:12.1863|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 14:52:12.1863|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 14:52:12.1971|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 14:52:50.2236|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 26 dodan. 
+2020-06-12 15:12:44.5977|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:12:45.0337|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:12:45.0337|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:12:45.0447|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:13:14.0276|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (39ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:13:14.1623|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:12662c2b-9afe-4752-a681-0500e9155404
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:13:14.1747|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:13:14.2413|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The model item passed into the ViewDataDictionary is of type 'OzoMvc.Models.Posao', but this ViewDataDictionary instance requires a model item of type 'OzoMvc.ViewModels.PosaoViewModel'.
+2020-06-12 15:13:36.1705|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:13:36.6527|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:13:36.6527|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:13:36.6653|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:14:04.9628|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (27ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:14:05.0545|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:4c4759c6-434f-4212-a55a-17f95ec34f89
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:14:05.0545|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:14:07.6836|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (47ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:14:07.7175|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:4c4759c6-434f-4212-a55a-17f95ec34f89
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:14:07.7175|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:14:09.8000|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (37ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:14:09.8198|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:4c4759c6-434f-4212-a55a-17f95ec34f89
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:14:09.8198|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:18:42.0385|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:18:42.5306|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:18:42.5306|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:18:42.5404|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:19:06.6327|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 27 dodan. 
+2020-06-12 15:20:42.7058|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:20:43.1497|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:20:43.1497|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:20:43.1497|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:21:12.0899|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (32ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:21:12.1441|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:d306e0a2-09fe-44c2-b415-6a0cb58556e2
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:21:12.1521|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:21:18.5642|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (22ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:21:18.5931|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:d306e0a2-09fe-44c2-b415-6a0cb58556e2
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:21:18.5931|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:23:43.3357|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:23:43.7762|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:23:43.7762|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:23:43.7762|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:23:48.4778|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (91ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:23:48.5977|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:e97475ae-a871-4c92-83a8-04e21bc8c2d3
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:23:48.6061|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:23:50.6695|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (21ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:23:50.6966|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:e97475ae-a871-4c92-83a8-04e21bc8c2d3
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:23:50.6966|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:23:52.0718|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (22ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:23:52.0972|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:e97475ae-a871-4c92-83a8-04e21bc8c2d3
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:23:52.0972|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:24:18.7648|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (21ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (DbType = Int32), @p2='?' (DbType = Double), @p3='?' (DbType = Int32), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao] ([cijena], [mjesto_id], [troskovi], [usluga_id], [vrijeme], [ZaposlenikId])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [id]
+FROM [posao]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 15:24:18.7905|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ZaposlenikId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:e97475ae-a871-4c92-83a8-04e21bc8c2d3
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 15:24:18.7905|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+Invalid column name 'ZaposlenikId'.
+ 
+2020-06-12 15:25:38.7370|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:25:39.2405|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:25:39.2495|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:25:39.2567|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:26:02.7283|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 0 dodan. 
+2020-06-12 15:28:11.6215|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:28:12.0441|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:28:12.0441|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:28:12.0565|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:28:52.0793|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:28:52.5184|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:28:52.5227|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:28:52.5227|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:29:14.5905|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 29 dodan. 
+2020-06-12 15:32:51.7827|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:32:52.6189|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:32:52.6189|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:32:52.6519|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:34:53.1664|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:34:53.7516|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:34:53.7516|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:34:53.7630|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:35:16.4780|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 30 dodan. 
+2020-06-12 15:36:24.8615|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:36:25.6706|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:36:25.6706|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:36:25.6944|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:37:16.9731|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:37:17.7659|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:37:17.7659|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:37:17.7758|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:39:54.6883|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:39:55.5428|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:39:55.5582|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:39:55.5905|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:40:32.0280|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 31 dodan. 
+2020-06-12 15:51:19.0004|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:51:20.4241|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:51:20.4241|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:51:20.4332|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:51:56.3595|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 15:54:46.3943|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 15:54:56.9995|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 32 dodan. 
+2020-06-12 15:55:34.1371|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 15:58:27.3099|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 15:58:27.6457|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 15:58:27.6487|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 15:58:27.6487|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 15:59:12.2919|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 33 dodan. 
+2020-06-12 16:02:09.9229|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 16:02:10.2540|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 16:02:10.2572|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 16:02:10.2572|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 16:04:09.2817|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 16:04:09.6232|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 16:04:09.6232|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 16:04:09.6324|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 16:04:13.1137|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Value cannot be null. (Parameter 'source')
+2020-06-12 16:04:37.0317|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 16:04:37.3709|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 16:04:37.3709|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 16:04:37.3709|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 16:07:26.2544|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 16:07:26.5811|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 16:07:26.5811|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 16:07:26.5903|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 16:07:57.8089|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 16:07:58.1856|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 16:07:58.1856|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 16:07:58.1968|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 16:13:30.3201|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 16:13:30.6611|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 16:13:30.6646|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 16:13:30.6646|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 16:54:10.8407|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 16:54:11.1743|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 16:54:11.1743|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 16:54:11.1832|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 16:54:12.4403|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. EF.Property called with wrong property name.
+2020-06-12 16:54:19.0427|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. EF.Property called with wrong property name.
+2020-06-12 16:54:20.0305|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. EF.Property called with wrong property name.
+2020-06-12 16:54:41.8488|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 16:54:42.1829|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 16:54:42.1829|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 16:54:42.1829|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:05:34.7840|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:05:35.1277|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:05:35.1277|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:05:35.1365|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:05:39.6702|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The model item passed into the ViewDataDictionary is of type 'OzoMvc.Models.Posao', but this ViewDataDictionary instance requires a model item of type 'OzoMvc.ViewModels.PosaoViewModel'.
+2020-06-12 17:07:34.2349|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:07:34.5666|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:07:34.5696|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:07:34.5696|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:07:40.6437|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The model item passed into the ViewDataDictionary is of type 'OzoMvc.Models.Posao', but this ViewDataDictionary instance requires a model item of type 'OzoMvc.ViewModels.PosaoViewModel'.
+2020-06-12 17:10:22.6977|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:10:23.0382|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:10:23.0382|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:10:23.0382|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:16:17.6078|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:16:17.9517|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:16:17.9517|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:16:17.9609|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:19:18.1903|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:19:18.5606|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:19:18.5606|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:19:18.5701|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:19:32.1460|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:19:32.5080|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:19:32.5080|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:19:32.5080|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:20:18.8767|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:20:19.2100|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:20:19.2100|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:20:19.2100|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:22:07.3485|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:22:07.6874|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:22:07.6874|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:22:07.6962|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:22:09.1978|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 17:22:44.3150|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:22:44.6557|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:22:44.6557|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:22:44.6641|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:25:14.3966|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:25:14.7598|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:25:14.7598|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:25:14.7598|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:26:03.4721|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 34 dodan. 
+2020-06-12 17:30:58.4414|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:30:58.7644|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:30:58.7644|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:30:58.7734|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:33:29.9565|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:33:30.3576|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:33:30.3576|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:33:30.3670|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:40:13.1687|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:40:13.5235|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:40:13.5235|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:40:13.5235|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:50:54.7454|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:50:55.0824|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:50:55.0824|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:50:55.0907|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:51:11.4094|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 17:52:59.5181|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:52:59.9818|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:52:59.9818|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:52:59.9932|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:53:10.3186|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 17:56:43.0675|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:56:43.4209|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:56:43.4209|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:56:43.4299|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:56:45.1052|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The model item passed into the ViewDataDictionary is of type 'System.Boolean', but this ViewDataDictionary instance requires a model item of type 'OzoMvc.Models.ZaposlenikPosao'.
+2020-06-12 17:57:46.4022|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:57:46.7511|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:57:46.7511|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:57:46.7600|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 17:57:48.0192|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[OzoMvc.Models.ZaposlenikPosao]', but this ViewDataDictionary instance requires a model item of type 'OzoMvc.Models.ZaposlenikPosao'.
+2020-06-12 17:58:56.6686|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 17:58:57.0178|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 17:58:57.0178|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 17:58:57.0270|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:02:47.9652|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:02:48.3039|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:02:48.3070|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:02:48.3070|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:06:48.3119|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:06:48.6587|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:06:48.6587|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:06:48.6670|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:13:53.8376|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:13:54.2240|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:13:54.2282|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:13:54.2282|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:23:43.1264|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:23:43.6892|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:23:43.6892|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:23:43.7035|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:24:02.5400|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:31:00.8699|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:31:01.2314|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:31:01.2314|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:31:01.2411|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:31:09.9380|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:32:13.8399|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:32:14.1804|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:32:14.1804|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:32:14.1804|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:32:15.4406|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:35:02.0056|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:35:02.3414|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:35:02.3414|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:35:02.3513|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:35:05.2724|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:35:34.1094|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:35:34.4781|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:35:34.4781|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:35:34.4781|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:35:38.2151|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:36:10.6768|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:36:11.0185|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:36:11.0185|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:36:11.0273|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:36:14.0775|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:36:53.4019|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:36:53.7766|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:36:53.7766|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:36:53.7766|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:36:57.0515|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:43:54.7365|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:43:55.3124|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:43:55.3124|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:43:55.3276|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:44:05.3271|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The model item passed into the ViewDataDictionary is of type 'OzoMvc.ViewModels.PosaoViewModel', but this ViewDataDictionary instance requires a model item of type 'OzoMvc.Models.Posao'.
+2020-06-12 18:45:22.6597|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:45:23.0009|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:45:23.0009|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:45:23.0120|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:45:28.8371|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:46:34.3342|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:46:34.6762|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:46:34.6796|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:46:34.6796|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:46:38.8276|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:48:49.0981|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:48:49.4415|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:48:49.4449|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:48:49.4449|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:48:55.5787|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 18:56:18.2511|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 18:56:18.5877|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 18:56:18.5877|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 18:56:18.5877|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 18:56:23.5272|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 20:12:16.0125|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 20:12:16.3467|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 20:12:16.3467|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 20:12:16.3561|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 20:14:07.2799|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 20:14:07.6203|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 20:14:07.6203|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 20:14:07.6203|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 20:14:16.8475|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Reference equality is not defined for the types 'OzoMvc.Models.Posao' and 'Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[OzoMvc.Models.Posao]'.
+2020-06-12 20:23:47.1566|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 20:23:47.4910|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 20:23:47.4942|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 20:23:47.4942|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 20:23:53.0998|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Reference equality is not defined for the types 'OzoMvc.Models.Posao' and 'Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[OzoMvc.Models.Posao]'.
+2020-06-12 20:24:19.1522|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 20:24:19.5083|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 20:24:19.5083|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 20:24:19.5083|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 20:24:23.8583|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Reference equality is not defined for the types 'OzoMvc.Models.Posao' and 'Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[OzoMvc.Models.Posao]'.
+2020-06-12 20:27:15.0211|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 20:27:49.0903|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:28:06.1815|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 35 dodan. 
+2020-06-12 20:30:22.5852|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:30:27.1114|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:30:35.4852|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:31:57.2647|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 20:31:57.6027|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 20:31:57.6027|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 20:31:57.6027|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 20:32:31.9798|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:32:42.8804|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:32:52.0431|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:32:59.2946|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 39 dodan. 
+2020-06-12 20:35:27.8844|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 20:35:28.2166|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 20:35:28.2166|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 20:35:28.2253|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 20:35:55.5986|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:38:15.7245|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 20:38:16.0557|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 20:38:16.0557|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 20:38:16.0557|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 20:38:17.4899|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 20:38:28.0300|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:50:39.0456|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 22:50:39.6107|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 22:50:39.6107|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 22:50:39.6253|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 22:51:14.3580|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:51:19.8378|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:52:01.6490|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 22:52:02.2174|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 22:52:02.2174|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 22:52:02.2323|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 22:52:13.6123|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:53:43.6116|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 22:53:44.1674|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 22:53:44.1674|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 22:53:44.1809|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 22:53:53.8975|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:54:03.8750|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:54:08.7816|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 40 dodan. 
+2020-06-12 22:58:10.1040|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 22:58:10.6456|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 22:58:10.6506|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 22:58:10.6506|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 22:58:42.6661|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:58:48.6859|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:58:58.7401|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:59:02.8283|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:59:07.1233|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:59:12.3700|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 22:59:19.7399|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:00:01.8371|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:00:02.4078|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:00:02.4134|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:00:02.4134|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:00:26.9866|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:00:31.8593|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:00:37.2858|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (23ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = Time)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [posao_oprema] ([oprema_id], [posao_id], [satnica])
+VALUES (@p0, @p1, @p2);
+SELECT [id]
+FROM [posao_oprema]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity(); 
+2020-06-12 23:00:37.7886|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'OzoMvc.Models.PI05Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_posao_oprema_posao". The conflict occurred in database "PI-05", table "dbo.posao", column 'id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ee9272ee-160a-4559-b50c-297db6dce925
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) An error occurred while updating the entries. See the inner exception for details.
+2020-06-12 23:00:37.7886|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: An error occurred while updating the entries. See the inner exception for details.
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK_posao_oprema_posao". The conflict occurred in database "PI-05", table "dbo.posao", column 'id'.
+The statement has been terminated.
+ 
+2020-06-12 23:01:54.1685|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:01:56.4223|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:01:56.4223|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:01:56.4384|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:02:06.4259|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:02:10.8658|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 42 dodan. 
+2020-06-12 23:02:20.0767|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 23:03:17.8974|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:03:18.4473|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:03:18.4473|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:03:18.4621|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:03:47.5060|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 43 dodan. 
+2020-06-12 23:06:44.6718|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:06:45.2614|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:06:45.2614|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:06:45.2778|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:07:10.4596|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:07:28.7037|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:08:15.2072|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:08:15.7845|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:08:15.7890|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:08:15.7890|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:08:17.7745|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:08:45.9742|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:08:53.2633|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:09:40.4793|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:09:49.2872|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:10:59.7963|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:11:00.1400|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:11:00.1400|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:11:00.1490|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:11:35.3832|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:12:07.7253|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 44 dodan. 
+2020-06-12 23:13:12.4974|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:13:12.8331|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:13:12.8361|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:13:12.8361|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:13:44.1574|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:13:44.4885|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:13:44.4885|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:13:44.4968|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:14:17.2180|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:14:49.2144|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 45 dodan. 
+2020-06-12 23:15:58.2411|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 46 dodan. 
+2020-06-12 23:16:52.1538|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:16:52.4867|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:16:52.4867|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:16:52.4955|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:17:14.7767|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:18:48.0717|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:18:48.4065|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:18:48.4065|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:18:48.4152|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:19:15.9377|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:19:22.4210|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:19:26.6730|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:19:30.0656|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:22:15.5518|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:22:15.9325|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:22:15.9325|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:22:15.9325|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:22:45.9446|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:22:51.7083|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:23:40.2040|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:23:40.5402|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:23:40.5402|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:23:40.5402|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:24:04.6159|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:24:16.5629|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:24:23.0608|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 47 dodan. 
+2020-06-12 23:24:46.4189|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:28:01.6072|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:28:02.3169|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:28:02.3216|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:28:02.3216|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:28:02.5064|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The client has disconnected
+2020-06-12 23:28:44.4798|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:28:51.1570|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:28:55.4046|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 48 dodan. 
+2020-06-12 23:32:08.1234|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:32:08.4519|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:32:08.4519|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:32:08.4606|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:32:33.5723|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 49 dodan. 
+2020-06-12 23:33:00.9398|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:33:12.5230|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 50 dodan. 
+2020-06-12 23:36:55.4522|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:36:55.7798|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:36:55.7798|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:36:55.7885|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:37:00.7268|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 23:39:24.4757|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:39:24.8212|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:39:24.8212|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:39:24.8212|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:39:29.2562|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 23:39:32.5939|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Object reference not set to an instance of an object.
+2020-06-12 23:39:56.1904|0|OzoMvc.Program|DEBUG|init main 
+2020-06-12 23:39:56.5380|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-12 23:39:56.5380|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-12 23:39:56.5380|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Pero\Desktop\OzoMvc 
+2020-06-12 23:40:19.5810|0|OzoMvc.Controllers.PosaoController|ERROR|Pogreška prilikom dodavanja novog posla: Object reference not set to an instance of an object.
+ 
+2020-06-12 23:40:24.4722|1000|OzoMvc.Controllers.PosaoController|INFO|Posao 51 dodan. 

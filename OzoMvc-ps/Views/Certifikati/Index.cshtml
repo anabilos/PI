@@ -1,0 +1,90 @@
+@model CertifikatiViewModel
+@{
+    ViewBag.Title = "Certifikati";
+}
+
+
+    <div class="container">
+        <div class="form-group row">
+            <div class="col-sm-4">
+                <h2>Pregled svih certifikata</h2>
+                <br />
+                <a class="btn btn-secondary" style="margin-bottom:20px;" asp-action="Create">Unos novog certifikata</a>
+            </div>
+
+        </div>
+        <pager page-info="@Model.PagingInfo" page-action="Index"
+               page-title="Unesite željenu stranicu" class="float-right">
+        </pager>
+    </div>
+
+
+
+<div class="sec">
+
+    <table class="table table-sm table-striped table-hover" id="tablecertifikata">
+        <thead>
+            <tr>
+                @{
+                    string[] nazivi = { "Id certifikata", "Naziv Certifikata", "Opis Certifikata" };
+                    for (int i = 1; i <= nazivi.Length; i++)
+                    {
+                        <th>
+                            <a asp-route-sort="@i"
+                               asp-route-page="@Model.PagingInfo.CurrentPage"
+                               asp-route-ascending="@(Model.PagingInfo.Sort == i ? !Model.PagingInfo.Ascending : true)">
+                                @nazivi[i - 1]
+                            </a>
+                        </th>
+                    }
+                }
+            </tr>
+        <th></th>
+        </thead>
+        <tbody>
+            @foreach (var certifikat in Model.certifikati)
+            {
+                <tr>
+                    <td class=text-center>@certifikat.Id</td>
+                    <td class=text-center>@certifikat.Naziv</td>
+                    <td class=text-center>@certifikat.Opis</td>
+
+
+
+                    <td class="btn-group">
+                        <a asp-action="Edit"
+                           asp-route-id="@certifikat.Id"
+                           asp-route-page="@Model.PagingInfo.CurrentPage"
+                           asp-route-sort="@Model.PagingInfo.Sort"
+                           asp-route-ascending="@Model.PagingInfo.Ascending"
+                           class="btn btn-sm" title="Ažuriraj">
+                            <i class="fas fa-edit"></i>
+                        </a>
+
+                        <form asp-action="Delete" method="post"
+                              asp-route-page="@Model.PagingInfo.CurrentPage"
+                              asp-route-sort="@Model.PagingInfo.Sort"
+                              asp-route-ascending="@Model.PagingInfo.Ascending">
+                            <input type="hidden" name="Id" value="@certifikat.Id" />
+                            <button type="submit" class="btn btn-sm btn-danger delete" title="Obriši">
+                                <i class="fas fa-trash-alt"></i>
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+@section styles{
+    <link rel="stylesheet" href="~/lib/jqueryui/themes/base/jquery-ui.css" />
+}
+
+@section scripts{
+    <script src="~/lib/jqueryui/jquery-ui.js"></script>
+    <script src="~/lib/jqueryui/ui/i18n/datepicker-hr.js"></script>
+    <script src="~/js/autocomplete.js"></script>
+
+
+}
